@@ -777,6 +777,7 @@ body {
   color: #515151;
   background-color: #fbfbfb;
   margin: 0;
+  margin-left: 300px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
