@@ -1,8 +1,8 @@
 ---
-title: Python Dash 速成指南
+title: Python Dash 
 layout: post
 date: '2021-05-10 18:08:47'
-description: dash基本入门
+description: Dash basic intro
 tags:
 - learn
 - python

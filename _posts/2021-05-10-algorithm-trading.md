@@ -1,5 +1,5 @@
 ---
-title: Algo Trading
+title: Algorithm Trading
 layout: post
 date: '2021-05-10 22:51:47'
 description: experimental algorithmic trading
